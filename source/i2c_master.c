@@ -25,7 +25,8 @@
 #include "ets_sys.h"
 #include "osapi.h"
 #include "gpio.h"
-
+#include "os_type.h"
+#include "esp8266_sdk.h"
 #include "i2c_master.h"
 
 LOCAL uint8 m_nLastSDA;

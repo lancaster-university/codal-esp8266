@@ -28,6 +28,7 @@
 #include "mem.h"
 #include "gpio.h"
 #include "user_interface.h"
+#include "esp8266_sdk.h"
 
 #include "key.h"
 

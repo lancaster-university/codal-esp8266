@@ -29,7 +29,9 @@
 
 #include "spi_interface.h"
 #include "osapi.h"
+#include "os_type.h"
 #include "ets_sys.h"
+#include "esp8266_sdk.h"
 
 //*****************************************************************************
 //

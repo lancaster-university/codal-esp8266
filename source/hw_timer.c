@@ -25,6 +25,7 @@
 #include "ets_sys.h"
 #include "os_type.h"
 #include "osapi.h"
+#include "esp8266_sdk.h"
 
 #define US_TO_RTC_TIMER_TICKS(t)          \
     ((t) ?                                   \
@@ -152,4 +153,3 @@ NOTE:
 3 if use frc1 source, this timer can't interrupt other isr.
 
 */
-

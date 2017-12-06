@@ -24,6 +24,7 @@
 
 #include "spi.h"
 #include "spi_overlap.h"
+#include "esp8266_sdk.h"
 
 #define CACHE_FLASH_CTRL_REG 0x3ff0000C
 #define CACHE_FLUSH_START_BIT BIT0

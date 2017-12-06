@@ -23,6 +23,8 @@
  */
 
 #include "spi_overlap.h"
+#include "os_type.h"
+#include "esp8266_sdk.h"
 #include "spi.h"
 #include "gpio.h"
 
